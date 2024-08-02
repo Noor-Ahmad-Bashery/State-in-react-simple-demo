@@ -22,6 +22,7 @@ export default function App() {
     }
   }
 
+  // this is for commit
   return (
     <>
       <button className="close" onClick={()=> setIsOpen(is=>!is)}>&times;</button>
